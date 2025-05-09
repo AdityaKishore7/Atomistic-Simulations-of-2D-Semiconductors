@@ -31,6 +31,8 @@ To validate a first-principles computational framework by simulating monolayer g
 - Graphene mobility: 1.85×10⁵ cm²/(V·s) using RTA
 - Validated convergence with ultra-dense k/q grids
 - Framework ready for application to HHK silicene
+![graphene_wannier_dft](https://github.com/user-attachments/assets/2f68da34-e23f-4347-bf20-39a9ac9e5aac)
+
 
 ## 📜 License
 
